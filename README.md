@@ -4,7 +4,7 @@
 - Movies
 - Teams
 
-This databased based on MySQL
+This databases based on MySQL
 
 ## For Database **Shopping**
 ### Tables _(22 tables)_
