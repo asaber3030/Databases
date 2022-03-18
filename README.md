@@ -1,1 +1,30 @@
 # Databases
+- Shopping
+- Education
+- Movies
+- Teams
+
+### For Database **Shopping**
+##### Tables
+- admins
+- alerts
+- user_addresses
+- warranty_agents
+- sub_categories
+- categories
+- coupons
+- delivery_men
+- failed_jobs
+- favs
+- messages
+- migrations
+- offers
+- password_resets
+- payments
+- products
+- product_images
+- refunding_process
+- reports
+- reports_replies
+- sub_categories
+- users
