@@ -1,2 +1,2 @@
 # Education Database Structure
-![Tables](/Education - Pending/Tables.PNG)
+![Tables](/../Education - Pending/Tables.PNG)
