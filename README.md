@@ -29,7 +29,7 @@
 - sub_categories
 - users
 
-## For Database **Education** __NOT COMPLETED__
+## For Database **Education** _NOT COMPLETED_
 ### Tables _(29 tables)_
 - alerts
 - all_years
