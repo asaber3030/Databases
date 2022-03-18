@@ -63,50 +63,27 @@
 
 ### For Database **Movies**
 ##### Tables
+- actors
+- added_to_list
 - admins
-- alerts
-- user_addresses
-- warranty_agents
-- sub_categories
+- cast
 - categories
-- coupons
-- delivery_men
 - failed_jobs
-- favs
-- messages
+- lists
 - migrations
-- offers
+- movies
 - password_resets
-- payments
-- products
-- product_images
-- refunding_process
-- reports
-- reports_replies
+- personal_access_tokens
 - sub_categories
 - users
+- wishlist
 
 ### For Database **Teams**
 ##### Tables
-- admins
-- alerts
-- user_addresses
-- warranty_agents
-- sub_categories
-- categories
-- coupons
-- delivery_men
-- failed_jobs
-- favs
-- messages
-- migrations
-- offers
-- password_resets
-- payments
-- products
-- product_images
-- refunding_process
-- reports
-- reports_replies
-- sub_categories
+- managers
+- messages	
+- pictures
+- teams
 - users
+- works
+
