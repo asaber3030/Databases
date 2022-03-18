@@ -5,7 +5,7 @@
 - Teams
 
 ### For Database **Shopping**
-##### Tables
+#### Tables __(22 tables)__
 - admins
 - alerts
 - user_addresses
@@ -30,7 +30,7 @@
 - users
 
 ### For Database **Education** __NOT COMPLETED__
-##### Tables
+##### Tables __(29 tables)__
 - alerts
 - all_years
 - annouce_results
@@ -62,7 +62,7 @@
 - uploaded_files_by_student
 
 ### For Database **Movies**
-##### Tables
+##### Tables __(14 tables)__
 - actors
 - added_to_list
 - admins
@@ -79,7 +79,7 @@
 - wishlist
 
 ### For Database **Teams**
-##### Tables
+##### Tables __(6 tables +)__
 - managers
 - messages	
 - pictures
