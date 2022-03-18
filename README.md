@@ -4,8 +4,8 @@
 - Movies
 - Teams
 
-### For Database **Shopping**
-#### Tables __(22 tables)__
+## For Database **Shopping**
+### Tables __(22 tables)__
 - admins
 - alerts
 - user_addresses
@@ -29,8 +29,8 @@
 - sub_categories
 - users
 
-### For Database **Education** __NOT COMPLETED__
-##### Tables __(29 tables)__
+## For Database **Education** __NOT COMPLETED__
+### Tables __(29 tables)__
 - alerts
 - all_years
 - annouce_results
@@ -61,8 +61,8 @@
 - universities
 - uploaded_files_by_student
 
-### For Database **Movies**
-##### Tables __(14 tables)__
+## For Database **Movies**
+### Tables __(14 tables)__
 - actors
 - added_to_list
 - admins
@@ -78,8 +78,8 @@
 - users
 - wishlist
 
-### For Database **Teams**
-##### Tables __(6 tables +)__
+## For Database **Teams**
+### Tables __(6 tables +)__
 - managers
 - messages	
 - pictures
